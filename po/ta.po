@@ -8,13 +8,16 @@ msgstr ""
 "Project-Id-Version: org.dithernet.aspinwall.Launcher\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-10 21:24+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-12-06 07:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/aspinwall-ui/"
+"aspinwall-launcher/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #: data/org.dithernet.aspinwall.launcher.gschema.xml:6
 msgid "Widgets"
@@ -75,13 +78,15 @@ msgstr ""
 
 #: data/org.dithernet.aspinwall.launcher.gschema.xml:59 src/ui/settings.ui:285
 msgid "Slideshow switch length"
-msgstr ""
+msgstr "ச்லைடுசோ சுவிட்ச் நீளம்"
 
 #: data/org.dithernet.aspinwall.launcher.gschema.xml:60 src/ui/settings.ui:287
 msgid ""
 "Length of the transition between the current and newly selected wallpaper, "
 "in miliseconds. Set to 0 to disable."
 msgstr ""
+"மிலிசெண்டுகளில், தற்போதைய மற்றும் புதிதாக தேர்ந்தெடுக்கப்பட்ட வால்பேப்பருக்கு இடையிலான மாற்றத்தின் நீளம். முடக்க 0 என "
+"அமைக்கவும்."
 
 #: data/org.dithernet.aspinwall.launcher.gschema.xml:67
 msgid "Slideshow switch delay"
@@ -465,14 +470,18 @@ msgstr ""
 #. TRANSLATORS: This can also be translated as "developers".
 #: src/launcher/window.py:180
 msgid "Aspinwall contributors"
-msgstr ""
+msgstr "ஆச்பின்வால் பங்களிப்பாளர்கள்"
 
 #. TRANSLATORS: Set this to your name (and optionally the e-mail address).
 #. noqa: F821
 #: src/launcher/window.py:187 src/launcher/window.py:188
 msgid "translator-credits"
-msgstr ""
+msgstr "மொழிபெயர்ப்பாளர்-வரவு"
 
 #: src/launcher/settings.py:275
 msgid "Add wallpaper"
 msgstr ""
+
+#: src/launcher/ui/widgetinfobox.ui:44
+msgid "_Add"
+msgstr "_ADD"
