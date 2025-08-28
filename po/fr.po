@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: org.dithernet.aspinwall.Launcher\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-10 21:24+0100\n"
-"PO-Revision-Date: 2023-01-14 09:48+0000\n"
-"Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
+"PO-Revision-Date: 2025-08-29 19:01+0000\n"
+"Last-Translator: \"David D.\" <dadu042@users.noreply.hosted.weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/aspinwall-ui/"
 "aspinwall-launcher/fr/>\n"
 "Language: fr\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.15.1-dev\n"
+"X-Generator: Weblate 5.13.1-dev\n"
 
 #: data/org.dithernet.aspinwall.launcher.gschema.xml:6
 msgid "Widgets"
@@ -499,12 +499,12 @@ msgstr "« %s » retiré"
 #. TRANSLATORS: Used in the popup that appears when you remove a widget
 #: src/launcher/widgetbox.py:97
 msgid "Undo"
-msgstr "Annuler"
+msgstr "Défaire"
 
 #. TRANSLATORS: This can also be translated as "developers".
 #: src/launcher/window.py:180
 msgid "Aspinwall contributors"
-msgstr "Les contributeurs d'Aspinwall"
+msgstr "Contributeurs d'Aspinwall"
 
 #. TRANSLATORS: Set this to your name (and optionally the e-mail address).
 #. noqa: F821
