@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: org.dithernet.aspinwall.Launcher\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-10 21:24+0100\n"
-"PO-Revision-Date: 2023-08-28 08:55+0000\n"
-"Last-Translator: Burak Orcun OZKABLAN <borcunozkablan@gmail.com>\n"
+"PO-Revision-Date: 2026-02-27 10:09+0000\n"
+"Last-Translator: BALITORIUS <balitorius@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/aspinwall-ui/"
 "aspinwall-launcher/tr/>\n"
 "Language: tr\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #: data/org.dithernet.aspinwall.launcher.gschema.xml:6
 msgid "Widgets"
@@ -69,7 +69,7 @@ msgstr ""
 
 #: data/org.dithernet.aspinwall.launcher.gschema.xml:50 src/ui/settings.ui:243
 msgid "Slideshow mode"
-msgstr ""
+msgstr "Slayt gösterisi modu"
 
 #. TRANSLATORS: Alternatively, this can be translated as "the launcher automatically switches between available wallpapers".
 #: data/org.dithernet.aspinwall.launcher.gschema.xml:52 src/ui/settings.ui:244
